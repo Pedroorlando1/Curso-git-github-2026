@@ -1,4 +1,6 @@
 novo arquivo 01
 
 
-curso git e github
+curso git e GitHub
+
+certo, alterado
